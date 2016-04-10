@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+changes to file
+=======
+ new more  file
+>>>>>>> Stashed changes
